@@ -1,6 +1,6 @@
 # New Users
 
-This script searches for new users and notres from the IRC channel #osm_bot on irc.oftc.net. The script checks the channel once an hour, mailing notifications when either are found. 
+This script searches for new users and notes from the IRC channel #osm_bot on irc.oftc.net. The script checks the channel once an hour, mailing notifications when either are found. 
 
 #### Requirements
 -  linux
